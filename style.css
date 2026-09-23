@@ -22,7 +22,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #cbd5e1, #f1f5f9);
+  background: linear-gradient(135deg, #83425a, #bb9475);
   color: var(--text);
 }
 
@@ -32,6 +32,7 @@ body {
   border-radius: 18px;
   box-shadow: var(--shadow);
   padding: 28px;
+  background: #9c6c83;
 }
 
 h1 {
@@ -74,7 +75,7 @@ h1 {
   padding: 12px 14px;
   border: 1px solid var(--border);
   border-radius: 10px;
-  background: #ffffff;
+  background: #e4c9a0;
   color: var(--text);
   font-size: 1rem;
 }
@@ -111,7 +112,7 @@ button {
 .filter-btn {
   flex: 1;
   padding: 10px;
-  background: #e2e8f0;
+  background: #e0c47f;
   color: var(--text);
   font-weight: 600;
 }
@@ -138,7 +139,7 @@ button {
   padding: 12px 14px;
   border: 1px solid var(--border);
   border-radius: 10px;
-  background: #f1f5f9;
+  background: #e4c9a0;
 }
 
 .task-main {
